@@ -21,7 +21,7 @@ node {
     }
 
    
-     }
+    
 
     stage("Image Prune"){
         imagePrune(CONTAINER_NAME)
